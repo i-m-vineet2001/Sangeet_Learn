@@ -1,9 +1,11 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sangeet_Learn 🎵
 
-## Getting Started
+**Sangeet_Learn** is a modern music learning platform built with **Next.js**, designed to help users explore and master musical concepts interactively.
 
-First, run the development server:
+----------------------------------------------------------
+
+## 🚀 Getting Started
+To run the development server locally:
 
 ```bash
 npm run dev
@@ -13,28 +15,45 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open http://localhost:3000 in your browser to see the result......
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🛠 Project Structure
+app/page.tsx – Main landing page
+components/ – Reusable UI components
+lib/ – Utility functions and helper code
+public/ – Static assets like images, audio files, etc.
+styles/ – Tailwind & global styles
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+✨ Features
+🎼 Browse and learn musical concepts
+📖 Interactive course modules
+💬 Responsive and accessible design
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📦 Tech Stack
+Next.js – App framework
+TypeScript – Type safety
+Tailwind CSS – Styling
+Aceternity UI – Accessible component primitives
+Vercel – Deployment platform
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+📚 Learn More
+Next.js Documentation – Learn about features and API
+Interactive Tutorial – Hands-on Next.js guide
+Tailwind CSS Docs
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Sangeet_Learn
->>>>>>> e03ab023dc89d5f46643b9137021c32799153766
+🚀 Deployment
+Deploy this app instantly with Vercel, the creators of Next.js.
+For detailed instructions, refer to the Vercel deployment guide.
+
+
+🤝 Contributions
+We welcome feedback, ideas, and contributions!
+Feel free to open an issue or submit a pull request.
+
+-----------------------------------------------------------------
+©️ 2025 Sangeet_Learn – Built with ❤️ by Vineet Patel
