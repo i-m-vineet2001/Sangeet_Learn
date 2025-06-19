@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/images/guitar.jpg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "/courses/piano.jpg"
+      "image": "/images/guitar.jpg"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/vocalist.jpg"
+      "image": "/images/advanceVocal.jpg"
     },
     {
       "id": 4,
@@ -37,8 +37,8 @@
       "description": "Master the drums with our comprehensive course covering all skill levels.",
       "price": 129.99,
       "instructor": "Mike Brown",
-      "isFeatured": false,
-      "image": "/courses/drumming.jpg"
+      "isFeatured": true,
+      "image": "/images/drum.jpg"
     },
     {
       "id": 5,
@@ -58,7 +58,7 @@
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "/images/musicProduction.jpg"
     },
     {
       "id": 7,
@@ -78,7 +78,7 @@
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "/images/electronicMusic Production.jpg"
     },
     {
       "id": 9,
@@ -98,7 +98,7 @@
       "price": 189.99,
       "instructor": "Ethan Moore",
       "isFeatured": true,
-      "image": "/courses/blues.jpg"
+      "image": "/images/bluesGuiter.jpg"
     }
   ]
 }
